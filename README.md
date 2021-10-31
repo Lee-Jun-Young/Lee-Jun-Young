@@ -24,9 +24,9 @@
 <div align="center">
   
 ### 💬 Ask me
-
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
   
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejy8506@gmail.com)](mailto:leejy8506@gmail.com)
+ 
 </div>
 
 
