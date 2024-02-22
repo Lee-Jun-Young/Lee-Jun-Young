@@ -5,21 +5,7 @@
 <br><br>
 
 
-### 🌱 Tech Stack
-
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-
-
 <br><br>
-  
-### 💬 Ask me
-  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejy8506@gmail.com)](mailto:leejy8506@gmail.com)
- 
-  <br><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jun-Young&layout=compact)](https://github.com/Lee-Jun-Young/github-readme-stats)
   
